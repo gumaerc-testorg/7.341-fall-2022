@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/7-341-microbes-at-war-the-mechanisms-that-drive-infectious-diseases-fall-2022/mit7_341_f22_fig02_microbiome.jpg
+file: /ol-ocw-studio-app/courses/7-341-microbes-at-war-the-mechanisms-that-drive-infectious-diseases-fall-2022/mit7_341_f22_fig02_microbiome.jpg
 file_size: 689557
 file_type: image/jpeg
 image_metadata:
