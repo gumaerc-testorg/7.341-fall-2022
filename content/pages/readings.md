@@ -110,7 +110,7 @@ Friendly Fire–How the Immune System Can Go Awry, and a Tick Bite Can Lead to A
 
 {{< tdclose >}}{{< tdopen >}}
 
-Chung C.H., Mirakhur B., Chan E., et al. [Cetuximab-induced anaphylaxis and IgE specific for galactose-alpha-1,3-galactose](https://www.nejm.org/doi/full/10.1056/nejmoa074943). *N. Engl. J. Med*. 2008. 358 (11) : 1109–17. doi: 10.1056/NEJMoa074943. PMID: 18337601; PMCID: PMC2361129.
+Chung C.H., Mirakhur B., Chan E., et al. [Cetuximab-induced anaphylaxis and IgE specific for galactose-alpha-1,3-galactose](https://www.nejm.org/doi/full/10.1056/NEJMoa074943). *N. Engl. J. Med*. 2008. 358 (11) : 1109–17. doi: 10.1056/NEJMoa074943. PMID: 18337601; PMCID: PMC2361129.
 
 Commins S.P., Satinover S.M., Hosen J., et al. [Delayed anaphylaxis, angioedema, or urticaria after consumption of red meat in patients with IgE antibodies specific for galactose-alpha-1,3-galactose](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3324851/). *J. Allergy Clin. Immunol*. 2009. 123 (2) : 426–33. doi: 10.1016/j.jaci.2008.10.052. Epub 2008 Dec 13. PMID: 19070355; PMCID: PMC3324851.
 
