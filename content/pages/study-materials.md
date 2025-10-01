@@ -72,4 +72,4 @@ uid: cf6a19b7-fcff-4b57-be5a-dc2e201b6960
 
 {{< resource uuid="35806853-7fa7-4d22-aba4-1d198004962f" >}}
 
-Image from: Berg, G., Rybakova, D., Fischer, D. et al. Microbiome definition re-visited: old concepts and new challenges. *Microbiome* 8, 103 (2020). [https://doi.org/10.1186/s40168-020-00875-0](https://doi.org/10.1186/s40168-020-00875-0). License [CC-BY](https://creativecommons.org/licenses/by/4.0/).
+Image from: Berg, G., Rybakova, D., Fischer, D. et al. Microbiome definition re-visited: old concepts and new challenges. *Microbiome* 8, 103 (2020). {{% resource_link "1b857585-a5c4-4567-bae4-81a7ffc58124" "https://doi.org/10.1186/s40168-020-00875-0" %}}. License {{% resource_link "69360eb7-c687-48fd-9a01-543e639e69d7" "CC-BY" %}}.
