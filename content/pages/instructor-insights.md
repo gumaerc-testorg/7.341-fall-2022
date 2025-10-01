@@ -21,7 +21,7 @@ Below, Dr. Lisa McLellan describes various aspects of how she taught *7.341 Micr
 
 **Lisa McLellan:** Selecting readings for the course involved a combination of factors. As a graduate student at Washington University, I was blessed to be a teaching assistant for Dr. Petra Levin in an undergraduate journal club of infectious diseases. In this class, I was exposed to some of my favorite scientific papers of all time and used many of these papers as a springboard for discussion topics (huge thank you to Dr. Levin for her amazing mentorship!). After that, I prioritized influential papers within the field that provided foundational knowledge and sparked thought-provoking discussions. Additionally, I sought papers that would lend themselves well to analysis and interpretation, encouraging students to delve deeper into the scientific process and hone their critical thinking skills. Further, as the students themselves had just lived through a global pandemic, I tried to choose papers that highlighted some of the scientific concepts they were exposed to during the COVID-19 pandemic. This allowed both cutting-edge but also foundational knowledge to be woven into the course.
 
-**OCW:** What are your thoughts on the pedagogical value of the field trip to [Concerto Biosciences](https://www.concertobio.com/)? What did your students get from that experience that they couldn’t get in the classroom?
+**OCW:** What are your thoughts on the pedagogical value of the field trip to {{% resource_link "92bc8528-19ac-4126-aa33-135af10abfef" "Concerto Biosciences" %}}? What did your students get from that experience that they couldn’t get in the classroom?
 
 **Lisa McLellan:** The field trip provided invaluable real-world exposure for students, allowing them to see how the research papers they read translated into the biomedical industry. By visiting a biotech company, students gained a deeper understanding of how scientific research translates into practical applications and the interdisciplinary nature of the biotech industry. Furthermore, interacting with professionals in the field allowed students to gain valuable career insights, witnessing firsthand a career they had not been exposed to. Overall, the field trip enriched the learning experience by providing perspectives and experiences that couldn't be replicated in the classroom alone.
 
@@ -35,7 +35,7 @@ Moreover, I also took class time to explore and consider scientific controversie
 
 ### Prerequisites
 
-A background knowledge of genetics, biochemistry, and cell biology is expected, ideally including at least one of the following classes: [*7.03 Genetics*](https://ocw.mit.edu/courses/res-7-006-7-03x-genetics/), [*7.05 General Biochemistry*](https://ocw.mit.edu/courses/7-05-general-biochemistry-spring-2020/), [*7.06 Cell Biology*](https://ocw.mit.edu/courses/res-7-007-7-06x-cell-biology/), *7.08 Fundamentals of Chemical Biology*, *7.21 Microbial Physiology*, or [*7.28 Molecular Biology*](https://ocw.mit.edu/courses/res-7-008-7-28x-molecular-biology/).
+A background knowledge of genetics, biochemistry, and cell biology is expected, ideally including at least one of the following classes: {{% resource_link "07469765-1564-4332-a906-68ce2a8996c3" "*7.03 Genetics*" %}}, {{% resource_link "1a42edee-a181-4ff2-b46b-a188e54d08f7" "*7.05 General Biochemistry*" %}}, {{% resource_link "e6b5731b-1c7f-4dff-b380-384158da52a1" "*7.06 Cell Biology*" %}}, *7.08 Fundamentals of Chemical Biology*, *7.21 Microbial Physiology*, or {{% resource_link "cec44ce0-85bf-4674-8b25-8984931a3e1a" "*7.28 Molecular Biology*" %}}.
 
 ### Requirements Satisfied
 
@@ -57,7 +57,7 @@ Fewer than 10 students
 
 ### Student Background
 
-All students were either juniors or seniors, majoring either in [Biology](https://catalog.mit.edu/degree-charts/biology-course-7/) or in [Chemistry and Biology](https://catalog.mit.edu/interdisciplinary/undergraduate-programs/degrees/chemistry-biology/).
+All students were either juniors or seniors, majoring either in {{% resource_link "fa8fc7e2-bf4c-4bc5-a6e6-8427f4c5437d" "Biology" %}} or in {{% resource_link "c164a479-ede9-42a2-bad1-776c367ffaa9" "Chemistry and Biology" %}}.
 
 ## How Student Time Was Spent
 
