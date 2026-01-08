@@ -7,10 +7,8 @@ file_size: 689557
 file_type: image/jpeg
 image_metadata:
   caption: 'Berg, G., Rybakova, D., Fischer, D. *et al.* Microbiome definition re-visited:
-    old concepts and new challenges. *Microbiome* **8**, 103 (2020). {{% resource_link
-    "1b857585-a5c4-4567-bae4-81a7ffc58124" "https://doi.org/10.1186/s40168-020-00875-0"
-    %}}. License {{% resource_link "69360eb7-c687-48fd-9a01-543e639e69d7" "CC-BY"
-    %}}.'
+    old concepts and new challenges. *Microbiome* **8**, 103 (2020). [https://doi.org/10.1186/s40168-020-00875-0](https://doi.org/10.1186/s40168-020-00875-0).
+    License [CC-BY](https://creativecommons.org/licenses/by/4.0/).'
   credit: 'Berg, G., Rybakova, D., Fischer, D. *et al.* Microbiome definition re-visited:
     old concepts and new challenges. *Microbiome* **8**, 103 (2020). https://doi.org/10.1186/s40168-020-00875-0'
   image-alt: "A schematic highlighting the composition of the term microbiome containing\
