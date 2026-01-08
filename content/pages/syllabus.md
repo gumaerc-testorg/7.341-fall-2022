@@ -12,7 +12,7 @@ Lectures: 1 session / week, 2 hours / session
 
 ## Prerequisites
 
-There are no absolute prerequisites. However, a background knowledge of genetics, biochemistry, and cell biology is expected. Ideally, students have successfully taken at least one of the following classes: {{% resource_link "07469765-1564-4332-a906-68ce2a8996c3" "*7.03 Genetics*" %}}, {{% resource_link "1a42edee-a181-4ff2-b46b-a188e54d08f7" "*7.05 General Biochemistry*" %}}, {{% resource_link "e6b5731b-1c7f-4dff-b380-384158da52a1" "*7.06 Cell Biology*" %}}, *7.08 Fundamentals of Chemical Biology*, *7.21 Microbial Physiology*, or {{% resource_link "cec44ce0-85bf-4674-8b25-8984931a3e1a" "*7.28 Molecular Biology*" %}}.
+There are no absolute prerequisites. However, a background knowledge of genetics, biochemistry, and cell biology is expected. Ideally, students have successfully taken at least one of the following classes: [*7.03 Genetics*](https://ocw.mit.edu/courses/res-7-006-7-03x-genetics/), [*7.05 General Biochemistry*](https://ocw.mit.edu/courses/7-05-general-biochemistry-spring-2020/), [*7.06 Cell Biology*](https://ocw.mit.edu/courses/res-7-007-7-06x-cell-biology/), *7.08 Fundamentals of Chemical Biology*, *7.21 Microbial Physiology*, or [*7.28 Molecular Biology*](https://ocw.mit.edu/courses/res-7-008-7-28x-molecular-biology/).
 
 ## Course Description
 
@@ -55,23 +55,23 @@ As the instructor, I value an inclusive environment and community within my clas
 
 ## Other Tools/Resources/Tips
 
-- You may want to download a {{% resource_link "746051d8-3814-4b88-9992-e3cfca985033" "citation manager" %}}, such as Mendeley or Zotero, to keep track of the papers you read and to help insert citations into your written assignment. I recommend Zotero. However, if you work in a research laboratory, ask what others in your lab are using. Lab members typically use the same program, allowing them to easily share papers across the lab.
-- If you are struggling to understand a method or topic, check out {{% resource_link "e2c407ac-8a9f-4d2b-8854-6df22f21ea78" "iBiology" %}}, YouTube, or {{% resource_link "8c32d3be-f076-4519-b05d-3ec1c659199e" "JoVE" %}}. iBiology and YouTube have some good videos about scientific content. JoVE has videos about experimental methods to help you understand practically what is going on.
-- If you want to learn more about why critically reading journal articles is important check out {{% resource_link "2397a336-9a38-473a-abb8-22bf206dec3a" "Retraction Watch" %}} and {{% resource_link "d55e8ec0-86d9-4228-ba44-074f6998ac16" "MicrobiomDigest" %}} on X (Twitter).
+- You may want to download a [citation manager](https://libguides.mit.edu/cite-write), such as Mendeley or Zotero, to keep track of the papers you read and to help insert citations into your written assignment. I recommend Zotero. However, if you work in a research laboratory, ask what others in your lab are using. Lab members typically use the same program, allowing them to easily share papers across the lab.
+- If you are struggling to understand a method or topic, check out [iBiology](https://www.ibiology.org/), YouTube, or [JoVE](https://www.jove.com/). iBiology and YouTube have some good videos about scientific content. JoVE has videos about experimental methods to help you understand practically what is going on.
+- If you want to learn more about why critically reading journal articles is important check out [Retraction Watch](https://twitter.com/RetractionWatch?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) and [MicrobiomDigest](https://twitter.com/microbiomdigest?lang=en) on X (Twitter).
 
 ### If you just love microbes and want to learn more…
 
 #### For an engaging read: 
 
-Strathdee, Steffanie A., Teresa Barker, and Thomas L. Patterson. 2020. {{% resource_link "d41bf692-b9e2-4c3f-8a3f-6a9848515464" "*The Perfect Predator : A Scientist's Race to Save Her Husband from a Deadly Superbug : A Memoir*" %}}*.* First trade paperback ed. Hachette Books. ISBN: 9780316418119.
+Strathdee, Steffanie A., Teresa Barker, and Thomas L. Patterson. 2020. [*The Perfect Predator : A Scientist's Race to Save Her Husband from a Deadly Superbug : A Memoir*](https://search.worldcat.org/title/1202968966)*.* First trade paperback ed. Hachette Books. ISBN: 9780316418119.
 
 #### For the podcast lovers: 
 
-{{% resource_link "d459b704-7552-4574-b8b3-3fdfff1f45d5" "This Week in Microbiology (TWiM)" %}} podcast. Hosted by Vincent Racaniello, with co-hosts Elio Schaechter, Michael Schmidt, Michele Swanson and Petra Levin. American Society for Microbiology (ASM).   
+[This Week in Microbiology (TWiM)](https://asm.org/podcasts/twim) podcast. Hosted by Vincent Racaniello, with co-hosts Elio Schaechter, Michael Schmidt, Michele Swanson and Petra Levin. American Society for Microbiology (ASM).   
 
-{{% resource_link "617b8b14-9ced-4b2b-9c3f-18b9086bc50a" "This Week in Parasitology (TWiP)" %}} podcast. Hosted by Vincent Racaniello, Dick Despommier, and Daniel Griffin, MD. American Society for Microbiology (ASM).   
+[This Week in Parasitology (TWiP)](https://asm.org/podcasts/twip) podcast. Hosted by Vincent Racaniello, Dick Despommier, and Daniel Griffin, MD. American Society for Microbiology (ASM).   
 
-{{% resource_link "052b5fb1-2cf1-4847-ba55-e0a0b10f2056" "This Week in Virology (TWiP)" %}} podcast. Hosted by Vincent Racaniello, Dick Despommier, Alan Dove, Rich Condit, Kathy Spindler, and Brianne Barker. American Society for Microbiology (ASM).     
+[This Week in Virology (TWiP)](https://asm.org/Podcasts/TWiV) podcast. Hosted by Vincent Racaniello, Dick Despommier, Alan Dove, Rich Condit, Kathy Spindler, and Brianne Barker. American Society for Microbiology (ASM).     
 
 ## Calendar
 
