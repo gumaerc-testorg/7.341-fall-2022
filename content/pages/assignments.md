@@ -32,7 +32,7 @@ Students will be provided an unpublished primary research paper with the title a
 3. **Graphical abstract:** Put the article into pictures! Graphical abstracts are becoming a popular way to summarize articles and engage readers.
     1. You may hand-draw the figure(s), use clip art from Google Images, etc. (The key for this class is not artistic talent but rather the ability to convey a conceptual understanding of the article.)
     2. The content of the graphical abstract corresponds to that of the written abstract—main question, main method, and main takeaway. There can be limited text, but the major takeaway should be conveyed through images.
-    3. See some examples: {{% resource_link "639334eb-4451-4648-bbd7-01ceb0518322" "https://www.cell.com/pb/assets/raw/shared/figureguidelines/GA_guide.pdf" %}}
+    3. See some examples: [https://www.cell.com/pb/assets/raw/shared/figureguidelines/GA_guide.pdf](https://www.cell.com/pb/assets/raw/shared/figureguidelines/GA_guide.pdf)
 
 ## Final Assignment, Due Week 13
 
